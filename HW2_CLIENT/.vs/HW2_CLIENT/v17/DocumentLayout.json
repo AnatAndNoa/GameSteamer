@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\pages\\newgames.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|solutionrelative:pages\\newgames.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\pages\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|solutionrelative:pages\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|c:\\users\\anatg\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\hw2_client\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\scripts\\ajaxcalls.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|solutionrelative:scripts\\ajaxcalls.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\pages\\mygames.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|solutionrelative:pages\\mygames.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\scripts\\steamdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6082974-D01B-9FE3-D11D-E2B19ED0AEBC}|C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT|solutionrelative:scripts\\steamdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "steamData.json",
+              "DocumentMoniker": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Scripts\\steamData.json",
+              "RelativeDocumentMoniker": "Scripts\\steamData.json",
+              "ToolTip": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Scripts\\steamData.json",
+              "RelativeToolTip": "Scripts\\steamData.json",
+              "ViewState": "AgIAACwaAAAAAAAAAADwv00aAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T23:00:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewGames.html",
+              "DocumentMoniker": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\NewGames.html",
+              "RelativeDocumentMoniker": "Pages\\NewGames.html",
+              "ToolTip": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\NewGames.html",
+              "RelativeToolTip": "Pages\\NewGames.html",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAADUBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-29T22:54:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\index.html",
+              "RelativeDocumentMoniker": "Pages\\index.html",
+              "ToolTip": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\index.html",
+              "RelativeToolTip": "Pages\\index.html",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-21T15:19:27.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.html",
+              "DocumentMoniker": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\LoginPage.html",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.html",
+              "ToolTip": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\LoginPage.html",
+              "RelativeToolTip": "Pages\\LoginPage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-29T17:39:05.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyGames.html",
+              "DocumentMoniker": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\MyGames.html",
+              "RelativeDocumentMoniker": "Pages\\MyGames.html",
+              "ToolTip": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Pages\\MyGames.html",
+              "RelativeToolTip": "Pages\\MyGames.html",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAAACwBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-22T20:38:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ajaxCalls.js",
+              "DocumentMoniker": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Scripts\\ajaxCalls.js",
+              "RelativeDocumentMoniker": "Scripts\\ajaxCalls.js",
+              "ToolTip": "C:\\Users\\anatg\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\HW2_CLIENT\\Scripts\\ajaxCalls.js",
+              "RelativeToolTip": "Scripts\\ajaxCalls.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-21T16:18:35.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
